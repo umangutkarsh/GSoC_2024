@@ -1,4 +1,4 @@
-# Google Summer of Code 2023, RocketChat
+# Google Summer of Code 2024, RocketChat
 
 <div align="center">
     <a href="https://summerofcode.withgoogle.com/projects/#6521788818784256"><img src="https://i.imgur.com/pgkUceb.png" width="650" alt="google-summer-of-code"></a>
