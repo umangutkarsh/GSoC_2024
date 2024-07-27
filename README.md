@@ -10,10 +10,24 @@
     </b>
 </div>
 
+<p align="center">
+    <code> 
+        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-project-abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp;
+        <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp;
+<!--         <a href="#-blog">Blog</a>&nbsp;&nbsp;&nbsp; -->
+        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-mentor">Mentor</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-links">Links</a>
+        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#%EF%B8%8F-support">Support</a>
+        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-connect-with-me">Connect With Me</a>
+    </code>
+</p>
 
-I worked on a project called [News Aggregation App](https://github.com/RocketChat/Apps.News-Aggregation) which is an app provides a centralized platform for seamless access to curated news content within the chat environment.
 
-I would maintain this repository as the final report summary of my GSoC 2023 project and a quick guide for all future GSoC aspirants.
+I worked on a project called [News Aggregation App](https://github.com/RocketChat/Apps.News-Aggregation) which is an app that provides a centralized platform for seamless access to curated news content within the chat environment.
+
+I would maintain this repository as the final report summary of my GSoC 2024 project and a quick guide for all future GSoC aspirants.
 
 
 ## ⭐ Project Abstract
@@ -84,12 +98,12 @@ I learned beyond GSoC from him and am forever grateful to be mentored by him.
 
 
 ## ❤️ Support
-Learned something new today? Reciprocate the love. ⭐ this repo for good karma.
+Learned something new today? Reciprocate the love. ⭐ This repo for good karma.
 
 
 
 ## 💬 Connect With Me    
-Want to discuss about GSoC / Rocket.Chat / Open-source ? Let's connect!
+Want to discuss about GSoC / Rocket.Chat / Open-source? Let's connect!
 <div align="center">
 
 | **Contributor** | Umang Utkarsh |
