@@ -10,20 +10,18 @@
     </b>
 </div>
 
-<p align="center">
-    <code> 
-        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-project-abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp;
-<!--         <a href="#-blog">Blog</a>&nbsp;&nbsp;&nbsp; -->
-        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-mentor">Mentor</a>&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-links">Links</a>
-        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#%EF%B8%8F-support">Support</a>
-        <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-connect-with-me">Connect With Me</a>
-    </code>
-</p>
+* [Project Abstract](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-project-abstract)
+* [Deliverables](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-deliverables)
+* [Demo](#-demo)
+* [Contributions](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-contributions)
+* [Blog]("#-blog")
+* [Mentor](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-mentor)
+* [Links](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-links)
+* [Support](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#%EF%B8%8F-support)
+* [Connect With Me](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-connect-with-me)
 
+
+<br />
 
 I worked on a project called [News Aggregation App](https://github.com/RocketChat/Apps.News-Aggregation) which is an app that provides a centralized platform for seamless access to curated news content within the chat environment.
 
