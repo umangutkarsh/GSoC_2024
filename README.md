@@ -1,7 +1,7 @@
 # Google Summer of Code 2024, RocketChat
 
 <div align="center">
-    <a href="https://summerofcode.withgoogle.com/projects/#6521788818784256"><img src="https://i.imgur.com/pgkUceb.png" width="650" alt="google-summer-of-code"></a>
+    <a href="https://summerofcode.withgoogle.com/programs/2024/projects/KL5JnEfZ"><img src="https://i.imgur.com/pgkUceb.png" width="650" alt="google-summer-of-code"></a>
     <br>
     <b> 
         <p>
@@ -10,15 +10,16 @@
     </b>
 </div>
 
-* [Project Abstract](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-project-abstract)
-* [Deliverables](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-deliverables)
-* [Demo](#-demo)
-* [Contributions](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-contributions)
-* [Blog]("#-blog")
-* [Mentor](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-mentor)
-* [Links](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-links)
-* [Support](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#%EF%B8%8F-support)
-* [Connect With Me](https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-connect-with-me)
+<div align="center">
+    <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-project-abstract">Project Abstract</a>
+    <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-deliverables">Deliverables</a>
+    <a href="https://github.com/umangutkarsh/GSoC_2024/edit/main/README.md#-demo">Demo</a>
+    <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-contributions">Contributions</a>
+    <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-mentor">Mentor</a>
+    <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-links">Links</a>
+    <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#%EF%B8%8F-support">Support</a>
+    <a href="https://github.com/umangutkarsh/GSoC_2024?tab=readme-ov-file#-connect-with-me">Connect With Me</a>
+</div>
 
 
 <br />
@@ -40,6 +41,19 @@ The News-Aggregation project aims to develop a Rocket.Chat app that collects and
 
 These deliverables aim to provide users with a comprehensive News Aggregation App that offers convenient access to daily news from various sources within the Rocket.Chat ecosystem.
 
+## 📺 Demo
+### `/news help`
+[new-help.webm](https://github.com/user-attachments/assets/322e4405-dfd9-47c8-94fe-237f393be34e)
+
+### `/news subscribe`
+[news-subscribe.webm](https://github.com/user-attachments/assets/4fd04b8e-88e4-4798-8e6b-05ef5d566ce7)
+
+### `/news unsubscribe`
+[news-unsubscribe.webm](https://github.com/user-attachments/assets/d08e0212-63ab-4c8f-a177-fefc2f2096ad)
+
+
+### Subscribe in multiple rooms with preferred categories
+[multiple.webm](https://github.com/user-attachments/assets/f6cee8c1-6c08-46bb-83d8-e5ce4dec6587)
 
 
 ## 🚀 Contributions
