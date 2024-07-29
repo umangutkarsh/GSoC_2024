@@ -88,6 +88,8 @@ These deliverables aim to provide users with a comprehensive News Aggregation Ap
 | [PR #26](https://github.com/RocketChat/Apps.News-Aggregation/pull/26) | Deliver News based on Subscribed Categories
 | [PR #27](https://github.com/RocketChat/Apps.News-Aggregation/pull/27) | Delete Old News periodically
 | [PR #28](https://github.com/RocketChat/Apps.News-Aggregation/pull/28) | Update ReadMe
+| [PR #29](https://github.com/RocketChat/Apps.News-Aggregation/pull/29) | Add more Features and Resolve Bugs
+
 
 </div>
 
@@ -121,7 +123,7 @@ Want to discuss about GSoC / Rocket.Chat / Open-source? Let's connect!
 | **Contributor** | Umang Utkarsh |
 |:--------------------|:-------------------|
 | **Organization** | [Rocket.Chat](https://rocket.chat/) |
-| **Project** | [Apps.News-Aggregation](https://summerofcode.withgoogle.com/programs/2023/projects/sUXGt89N) |
+| **Project** | [Apps.News-Aggregation](https://summerofcode.withgoogle.com/programs/2024/projects/KL5JnEfZ) |
 | **GitHub** | [@umangutkarsh](https://github.com/umangutkarsh) |
 | **LinkedIn** | [umangutkarsh](https://www.linkedin.com/in/umang-utkarsh-568a841b6/) |
 | **X** | [@umangutkarsh_](https://x.com/umangutkarsh_) |
